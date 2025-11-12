@@ -1,2 +1,2 @@
-# misalumnos
-Exercise and code for students
+# R_Practoce
+Exercise and code for practice
