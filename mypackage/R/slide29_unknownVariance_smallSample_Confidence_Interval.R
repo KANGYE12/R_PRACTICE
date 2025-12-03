@@ -18,4 +18,4 @@ e <- t*sqrt(var1/n1 + var2/n2)
 lowerBound <- difMeans + e
 upperBound <- difMeans - e
 print(lowerBound)
-print(upperBound)
+# print(upperBound)S
